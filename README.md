@@ -1,2 +1,2 @@
 # TicTacToeGame
-Simple tictactoe 2 player game using HTML,CSS,JS
+Simple tic tac toe game using HTML,CSS,JS
