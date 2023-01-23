@@ -23,7 +23,7 @@ body {
     height: 140vh;
     color: white;
     text-align: center;
-    background-image: url(/images/controller.jpg);
+    background-image: url(../images/controller.jpg);
 }   
 
 #game{
@@ -307,12 +307,12 @@ padding-top: 10%;
 /*  --------------------------------------------- POPUP ENDS --------------------------------------------- */
 @media screen and (max-width:1100px ) {
     .bg{
-        background-image:url(/images/controllerBG.png);
+        background-image:url(../images/controllerBG.png);
     }
 }
 
 @media screen and (min-width:1600px ) {
     .bg{
-        background-image:url(/images/controllerBG3.jpg);
+        background-image:url(../images/controllerBG3.jpg);
     }
 }
